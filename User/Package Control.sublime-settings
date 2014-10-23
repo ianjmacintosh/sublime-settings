@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Color Highlighter",
+		"DashDoc",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"FileSystem Autocompletion",
+		"GitHubinator",
+		"Gutter Color",
+		"Handlebars",
+		"ImageMagick",
+		"LESS",
+		"LineEndings",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Farzher",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"debug": true
+}
